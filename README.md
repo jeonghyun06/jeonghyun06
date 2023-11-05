@@ -1,4 +1,4 @@
-<div align="center">
+
   
 ### I'm JeongHyun Lee!
 
@@ -17,8 +17,8 @@
  - rpg 게임, 시뮬레이션 게임
  - 유니티, c# 이용
   - 기획, 개발, 디자인
-
-  - 
+    
+<div align="center">
 ## Tech Stack
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="22px"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="22px"/>
